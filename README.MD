@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo João Lucas, tenho 18 anos e sou apaixonado por tecnologia. Atualmente estou cursando Engenharia de Software. Estou sempre estudando e construindo projetos novos, além de explorar ferramentas de Inteligência Artificial para acelerar e melhorar meu fluxo de desenvolvimento.
+Me chamo João Lucas, tenho 18 anos e tenho interesse na área de tecnologia, especialmente em desenvolvimento de software. Estou cursando Engenharia de Software na UDF, buscando aprimorar meus conhecimentos técnicos e desenvolver soluções práticas. Sou uma pessoa dedicada, com facilidade para aprender, e estou sempre em busca de novos desafios e oportunidades de crescimento. 
 
 ---
 
