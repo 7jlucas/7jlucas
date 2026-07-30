@@ -30,7 +30,7 @@ Tenho 18 anos, sou apaixonado por tecnologia e estou cursando **Engenharia de So
 ### 🧠 Inteligências Artificiais que uso no dia a dia
 
 <p align="left">
-<img src="https://custom-icon-badges.demolab.com/badge/Cursor-000000?style=for-the-badge&logo=terminal&logoColor=white" alt="Cursor"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Cursor-000000?style=for-the-badge&logo=code&logoColor=white" alt="Cursor"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
   <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
