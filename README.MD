@@ -28,15 +28,15 @@ Uso essas ferramentas para escrever código mais rápido, revisar lógica, apren
 
 ### 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7jlucas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7jlucas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
 
 ---
 
 ### 📫 Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/SEU_INSTAGRAM/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/7jlucas/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/7jlucass/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
