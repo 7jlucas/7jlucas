@@ -2,13 +2,13 @@
 
 **`Desenvolvedor`**
 
-Me chamo João Lucas, tenho 18 anos e sou apaixonado por tecnologia. Atualmente estou cursando Engenharia de Software na UDF. Estou sempre estudando e construindo projetos novos, além de explorar ferramentas de Inteligência Artificial para acelerar e melhorar meu fluxo de desenvolvimento.
+Me chamo João Lucas, tenho 18 anos e sou apaixonado por tecnologia. Atualmente estou cursando Engenharia de Software. Estou sempre estudando e construindo projetos novos, além de explorar ferramentas de Inteligência Artificial para acelerar e melhorar meu fluxo de desenvolvimento.
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
-![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg) ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg) ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg) ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg) ![React](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg) ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg) ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg) ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git" alt="Linguagens e tecnologias" height="40"/>
 
 ---
 
