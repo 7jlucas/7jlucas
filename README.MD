@@ -43,20 +43,13 @@ Uso essas ferramentas pra escrever código mais rápido, revisar lógica, aprend
 
 ### 📌 Projeto em destaque
 
-<a href="https://github.com/7jlucas/biblioteca-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=7jlucas&repo=biblioteca-api&theme=radical" alt="biblioteca-api"/>
-</a>
-
-API REST em Spring Boot para gerenciamento de biblioteca — cadastro de livros, usuários e controle de empréstimos.
+**[biblioteca-api](https://github.com/7jlucas/biblioteca-api)** — API REST em Spring Boot para gerenciamento de biblioteca: cadastro de livros, usuários e controle de empréstimos.
 
 ---
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=7jlucas&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=7jlucas&theme=radical&locale=pt-br" alt="GitHub Streak" height="165"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=7jlucas&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br&count_private=true" alt="GitHub Stats"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7jlucas&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Langs"/>
 
