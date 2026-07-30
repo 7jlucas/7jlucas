@@ -23,7 +23,7 @@ Tenho 18 anos, sou apaixonado por tecnologia e estou cursando **Engenharia de So
 
 ### 🤖 Linguagens e Tecnologias
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git&theme=dark" alt="Linguagens e tecnologias" height="45"/>
+<img src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,nodejs,python,git&theme=dark" alt="Linguagens e tecnologias" height="45"/>
 
 ---
 
