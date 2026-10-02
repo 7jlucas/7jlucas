@@ -37,7 +37,7 @@ Tenho 18 anos, sou apaixonado por tecnologia e estou cursando **Engenharia de So
   <img src="https://custom-icon-badges.demolab.com/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
 </p>
 
-Uso essas ferramentas pra escrever código mais rápido, revisar lógica, aprender coisas novas e resolver bugs — sempre entendendo e revisando tudo que é gerado.
+Uso essas ferramentas pra escrever código mais rápido, revisar lógica, aprender coisas novas e resolver bugs - sempre entendendo e revisando tudo que é gerado.
 
 ---
 
