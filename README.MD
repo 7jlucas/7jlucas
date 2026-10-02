@@ -43,7 +43,7 @@ Uso essas ferramentas pra escrever código mais rápido, revisar lógica, aprend
 
 ### 📌 Projeto em destaque
 
-**[biblioteca-api](https://github.com/7jlucas/biblioteca-api)** — API REST em Spring Boot para gerenciamento de biblioteca: cadastro de livros, usuários e controle de empréstimos.
+**[biblioteca-api](https://github.com/7jlucas/biblioteca-api)** - API REST em Spring Boot para gerenciamento de biblioteca: cadastro de livros, usuários e controle de empréstimos.
 
 ---
 
