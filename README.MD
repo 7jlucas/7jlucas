@@ -12,7 +12,7 @@
 
 ### 🚀 Sobre mim
 
-Tenho 18 anos, sou apaixonado por tecnologia e estou cursando **Engenharia de Software na UDF**. Gosto de construir projetos práticos e de usar Inteligência Artificial como parte do meu fluxo de desenvolvimento — sempre revisando e entendendo tudo que é gerado.
+Tenho 18 anos, sou apaixonado por tecnologia e estou cursando **Engenharia de Software na UDF**. Gosto de construir projetos práticos e de usar Inteligência Artificial como parte do meu fluxo de desenvolvimento - sempre revisando e entendendo tudo que é gerado.
 
 - 🔭 Atualmente aprendendo **Spring Boot** e construção de **APIs REST**
 - 🌱 Estudando Engenharia de Software na **UDF**
