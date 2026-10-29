@@ -18,7 +18,6 @@
 Tenho 18 anos, sou apaixonado por tecnologia e estou cursando **Engenharia de Software na UDF**. Gosto de construir projetos práticos, do back-end à interface, e de usar Inteligência Artificial como parte do meu fluxo de desenvolvimento - sempre revisando e entendendo tudo que é gerado.
 
 - 🔭 Atualmente aprendendo **Spring Boot** e construção de **APIs REST**
-- 🥗 Construindo o **NUTRI//FLOW**, uma plataforma de acompanhamento nutricional com Next.js e Supabase
 - 🌱 Estudando Engenharia de Software na **UDF**
 - 💬 Pergunte-me sobre Java, React, Next.js ou como uso IA no dia a dia de dev
 - ⚡ Fun fact: uso mais de uma IA ao mesmo tempo pra acelerar o desenvolvimento
@@ -45,7 +44,7 @@ Tenho 18 anos, sou apaixonado por tecnologia e estou cursando **Engenharia de So
 
 ---
 
-### 📌 Projetos em destaque
+### 📌 Projetos
 
 <table>
   <tr>
@@ -96,7 +95,6 @@ Tenho 18 anos, sou apaixonado por tecnologia e estou cursando **Engenharia de So
 ### 🎯 Objetivos para 2026
 
 - [ ] Dominar Spring Boot e boas práticas de APIs REST (autenticação, testes, documentação)
-- [ ] Publicar o NUTRI//FLOW online com uma conta demo
 - [ ] Contribuir com projetos open source
 - [ ] Conseguir meu primeiro estágio em desenvolvimento
 
