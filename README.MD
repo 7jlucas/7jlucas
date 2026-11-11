@@ -117,7 +117,7 @@ Tenho 18 anos, sou apaixonado por tecnologia e estou cursando **Engenharia de So
 
 <p align="left">
   <a href="https://www.linkedin.com/in/7jlucas/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/7jlucass/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/7jlucas/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 <div align="center">
